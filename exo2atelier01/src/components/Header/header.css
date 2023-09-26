@@ -1,8 +1,19 @@
 header {
     display: flex;
     gap: 30px;
+    border: 1px solid #b32c2c;
 }
 
 header img{
     width: 200px;
+}
+
+header h1{
+    margin: 0;
+    padding: 0;
+}
+
+header h2{
+    margin: 0;
+    padding: 0;
 }
